@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Default Local Group
+  m_EditorClassIdentifier: 
+  m_GroupName: Default Local Group
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 5b303717fec46e845a3491d63b617ccc
+  m_SerializeEntries:
+  - m_GUID: dba754f8c9101994bb986c094dca2890
+    m_Address: Assets/Sounds/AudioClip/Cash.ogg
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f753deef8428f09459d1550dc817d5b9
+    m_Address: Assets/Sounds/AudioClip/ButtonUI.ogg
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: fbba51dbf135a9c46900f17fac94e2e5
+    m_Address: Assets/Sounds/Sounds/button_generic.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 2dc2158007e67fb49a277c2b7ef4bd27, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: db27718db3021114eaab152bb709c368, type: 2}
+    - {fileID: 11400000, guid: 35377196120611541bc90f7acb8c5f23, type: 2}

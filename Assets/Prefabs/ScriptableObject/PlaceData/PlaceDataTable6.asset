@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6ae210449c5c67341a5cf9a55f5d213b, type: 3}
+  m_Name: PlaceDataTable6
+  m_EditorClassIdentifier: 
+  id: 5
+  placeName: Table 6
+  sprite: {fileID: 0}
+  decorations:
+  - {fileID: 11400000, guid: eaf351ef25946f54683e739c6e747ff0, type: 2}
+  - {fileID: 11400000, guid: 1628654c9ae0c954881e1247dfc82dfc, type: 2}
